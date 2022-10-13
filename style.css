@@ -1,0 +1,81 @@
+
+.upper{
+  background-color: #CDFCF6;
+  position: relative;
+  padding-top: 100px;
+  width: 100%
+
+}
+.middle{  position: relative;
+    background-color: #FAF7F0;
+  padding-top: 70px;
+
+
+}
+.lower{
+    margin: 0;
+    background-color: #CDFCF6;
+
+}
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather'
+}
+
+p{
+  font-size: 20px;
+  margin-bottom: 60px;
+}
+h1{
+ font-family: 'Sacramento';
+ font-size: 100px;
+  margin: 0 auto 0 auto;
+}
+
+h2{
+  font-size: 40px;
+}
+.my image{
+  position: relative;
+  top: 50px;
+      margin: 0 auto 0 auto;
+}
+.my image:hover{
+
+}
+
+.upar{
+    position: absolute;
+    right: 300px;
+    top: 55px;
+}
+
+.niche{
+  position: absolute;
+left: 330px;
+  top: 220px;
+}
+.home{
+  position: absolute;
+  left:350px;
+}
+.home{
+  position: relative;
+  top: 70px;
+}
+.coach{
+  position: relative;
+  left: 350px;
+}
+.school{
+  position: relative;
+  right:20px;
+  top: 20px;
+}
+ hr {
+   border-style: none;
+border-color:black;
+border-width: 5px;
+border-top-style: dotted;
+ width: 10%}
