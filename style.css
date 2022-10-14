@@ -1,4 +1,5 @@
 
+
 .upper{
   display: block;
   width: 100%;
@@ -70,9 +71,9 @@ left: 330px;
 }
 .homet{
   position: relative;
-  width: 500px;
+  width: 20%;
   top: 70px;
-  left: 850px;
+  left: 975px;
 
 }
 .coach{
@@ -94,7 +95,7 @@ border-top-style: dotted;
 }
 .coacht
 {
-  width:500px;
+  width:30%;
   position: relative;
   left: 850px;
 }
