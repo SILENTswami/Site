@@ -1,20 +1,24 @@
 
 .upper{
+  display: block;
+  width: 100%;
   background-color: #CDFCF6;
-  position: relative;
   padding-top: 100px;
-  width: 100%
+
 
 }
-.middle{  position: relative;
+.middle{
     background-color: #FAF7F0;
   padding-top: 70px;
+
 
 
 }
 .lower{
     margin: 0;
     background-color: #CDFCF6;
+
+
 
 }
 body{
@@ -64,9 +68,17 @@ left: 330px;
   position: relative;
   top: 70px;
 }
+.homet{
+  position: relative;
+  width: 500px;
+  top: 70px;
+  left: 850px;
+
+}
 .coach{
   position: relative;
   left: 350px;
+
 }
 .school{
   position: relative;
@@ -78,4 +90,12 @@ left: 330px;
 border-color:black;
 border-width: 5px;
 border-top-style: dotted;
- width: 10%}
+ width: 10%
+}
+.coacht
+{
+  width:500px;
+  position: relative;
+  left: 850px;
+}
+
