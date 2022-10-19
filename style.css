@@ -11,13 +11,18 @@
 .middle{
     background-color: #FAF7F0;
   padding-top: 70px;
+  padding-bottom: 50px;
 
 
 
 }
-.lower{
+.footer{
+  padding-top: 40px;
+  padding-bottom: 60px;
     margin: 0;
     background-color: #CDFCF6;
+    height: 45px;
+
 
 
 
@@ -40,6 +45,12 @@ h1{
 
 h2{
   font-size: 40px;
+}
+h3{
+margin: 0;
+position: relative;
+bottom: 10px;
+left: 0px;
 }
 .my image{
   position: relative;
@@ -72,8 +83,8 @@ left: 330px;
 .homet{
   position: relative;
   width: 20%;
-  top: 70px;
-  left: 975px;
+  top: 60px;
+  left: 965px;
 
 }
 .coach{
@@ -81,10 +92,22 @@ left: 330px;
   left: 350px;
 
 }
+.coacht
+{
+  width:30%;
+  position: relative;
+  left: 850px;
+  bottom : 10px;
+}
 .school{
   position: relative;
-  right:20px;
-  top: 20px;
+  right:150px;
+  top: 10px;
+}
+.schoolt{
+  position: relative;
+  left:250px;
+  width: 50%
 }
  hr {
    border-style: none;
@@ -93,10 +116,40 @@ border-width: 5px;
 border-top-style: dotted;
  width: 10%
 }
-.coacht
-{
-  width:30%;
+.uni{
   position: relative;
-  left: 850px;
+  right:150px;
+
+}
+.unit{
+  position: relative;
+  top: 10px;
+  right: 140px;
+margin: 0;
+
 }
 
+
+.social:hover {
+  background-color: #FAF7F0;
+border-radius: 5px;
+
+
+  text-decoration: none;
+}
+
+.social{
+  margin: 0 10px 0 10px;
+  height: 30px;
+  position: relative;
+  top: 10px;
+  left: 35px;
+
+}
+.cc{
+  display: inline;
+  position: relative;
+  right: 80px;
+  top: 40px;
+
+}
