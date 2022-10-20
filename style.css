@@ -35,13 +35,18 @@ font-family: 'Merriweather'
 }
 
 p{
-  font-size: 20px;
+
   margin-bottom: 60px;
+  width: 40%
+  position:relative;
+  left: auto;
+font-size: 20px;
 }
 h1{
  font-family: 'Sacramento';
  font-size: 100px;
   margin: 0 auto 0 auto;
+  color: #31C6D4;
 }
 
 h2{
@@ -70,12 +75,12 @@ left: 0px;
 
 .niche{
   position: absolute;
-left: 330px;
+left: 17%;
   top: 220px;
 }
 .home{
-  position: absolute;
-  left:350px;
+  position: relative;
+  left:24%;
 }
 .home{
   position: relative;
@@ -85,30 +90,30 @@ left: 330px;
   position: relative;
   width: 20%;
   top: 60px;
-  left: 965px;
+  left: 65%;
 
 }
 .coach{
   position: relative;
-  left: 350px;
+  left: 24%;
 
 }
 .coacht
 {
   width:30%;
   position: relative;
-  left: 850px;
+  left: 60%;
   bottom : 10px;
 }
 .school{
   position: relative;
-  right:150px;
+  right:24%;
   top: 10px;
 }
 .schoolt{
   position: relative;
-  left:250px;
-  width: 50%
+  left:0;
+  width: 60%
 }
  hr {
    border-style: none;
@@ -119,14 +124,14 @@ border-top-style: dotted;
 }
 .uni{
   position: relative;
-  right:150px;
+  right:24%;
 
 }
 .unit{
   position: relative;
   top: 10px;
-  right: 140px;
-margin: 0;
+  right: 0;
+width: 50%
 
 }
 
@@ -153,4 +158,8 @@ border-radius: 5px;
   right: 80px;
   top: 40px;
 
+}
+
+.love{
+  font-size: 70%;
 }
