@@ -1,6 +1,40 @@
+.nav{
+    background-color:#100720;
+display: block;
+border: 0;
+height: 2.5em;
+padding-bottom: 1em;
+position: fixed;
+width: 100%;
+}
 
+.link{
+  color: white;
+  text-decoration: none;
+}
+.n1{
+  position: relative;
+  right: 50%;
+  top:1.25em;
 
+}
+.n3{
+  position: relative;
+right: 35%;
 
+bottom:1.25em;
+
+}
+.n2{
+  position: relative;
+left:45%;
+}
+
+.horizontal{
+  list-style-type: none;
+  margin: 0;
+  color: white;
+}
 .upper{
   display: block;
   width: 100%;
@@ -70,7 +104,7 @@ left: 0px;
 .upar{
     position: absolute;
     right: 300px;
-    top: 55px;
+    top: 115px;
 }
 
 .niche{
@@ -161,5 +195,8 @@ border-radius: 5px;
 }
 
 .love{
-  font-size: 70%;
+  font-size: 100%;
 }
+ .student{
+   height: 300px;
+ }
